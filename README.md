@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <code>Python</code> • <code>Django</code> • <code>Web Development</code> • <code>Software Development</code>
+  <code>Python</code> • <code>Django</code> • <code>Web Development</code> • <code>Software Development</code> | <code>Backend Developer<\code>
 </p>
 
 ---
